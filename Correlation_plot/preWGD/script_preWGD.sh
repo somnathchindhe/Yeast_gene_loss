@@ -3,8 +3,8 @@
 #To run script requires Pillers.tab,preWGD combination list,file1_preWGD.txt,file2_preWGD.txt and preWGD.R files 
 #Input Gene stable  id list file should have file name same as pathway name 
 
-a="RNA_metabolism"                  #Input =pathway 1 gene stable id list eg.a="lipid_metabolism'
-b="Vitamin_metabolism"                  #Input= pathway 2 gene stable id list  eg. b='Glucose_metabolism"
+a=""                  #Input =pathway 1 gene stable id list eg.a="lipid_metabolism'
+b=""                  #Input= pathway 2 gene stable id list  eg. b='Glucose_metabolism"
 
 #for_getting_pathway gene from pillerstab
 for i in `cat "$a"`
