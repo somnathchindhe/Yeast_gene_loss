@@ -1,0 +1,1 @@
+cat output.pathway2.tsv| awk '$aaa=="---"{print$0}'|awk '$bbb=="---"{print$0}'|awk -v val="---" '$12!=val||$22!=val{print$0}' >ccc.path2.WGD.tsv

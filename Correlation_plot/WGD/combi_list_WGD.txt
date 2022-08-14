@@ -1,0 +1,12 @@
+1_33_V.polyspora
+2_32_T.phaffi
+3_31_T.blattie
+4_30_T.dairenen
+5_29_N.catelli
+6_28_K.naganishi
+7_27_K.africana
+8_26_C.glabrata
+9_25_S.uvarum
+10_24_S.kudrav
+11_23_S.mikate
+12_22_S.cerevis

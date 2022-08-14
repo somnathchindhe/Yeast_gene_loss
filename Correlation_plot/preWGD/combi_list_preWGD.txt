@@ -1,0 +1,8 @@
+14_Z.rouxii
+15_T.delbrueckii
+16_K.lactis
+17_E.gossypii 
+18_E.cymbalariae
+19_L.kluyveri
+20_L.thermotolerans
+21_L.waltii
