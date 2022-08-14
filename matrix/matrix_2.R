@@ -57,7 +57,7 @@ axis(1, at=1:genes1, labels=rownames(b1.df2),cex.axis=1.4,las=2,lwd=2,col.ticks 
 axis(2, at=1:species, labels=colnames(b1.df2),las=2,cex.axis=2,tck = 0.02,col.ticks = "black",col.axis = "#000004")
 
 
-#plot2 of matrix plot
+#part2 of matrix plot
 b2.m<-matrix(b2.df2,nrow=genes2,ncol=species)
 b2.m2<-b2.m
 b2.m2[] <-c("#720e9e","#D82148","#FFF6BE","#CCCCFF")[match(b2.m, c("L","D","S","P"))]
