@@ -1,0 +1,2 @@
+cat aaa.output.tsv|awk '{if($ccc=="---") {$ccc="L"} else {$ccc="P"}}1'>ccc.output.tsv
+
