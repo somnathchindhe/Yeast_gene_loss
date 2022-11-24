@@ -1,0 +1,1 @@
+awk '{if ($18=="1"&&$17=="1") {print$12}}1' Biological_process
