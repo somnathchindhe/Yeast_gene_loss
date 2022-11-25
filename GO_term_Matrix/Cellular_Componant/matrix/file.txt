@@ -1,0 +1,1 @@
+cat zzz.output.tsv|awk '{if ($aaa=="---"&&$bbb=="---") {$aaa=$bbb="D"}}1'|awk '{if ($aaa=="---"||$bbb=="---") {$aaa=$bbb="S"}}1'|awk '{if ($aaa!="D"&&$bbb!="S") {$aaa=$bbb="P"}}1' >aaa.output.tsv
