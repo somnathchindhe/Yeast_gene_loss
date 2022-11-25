@@ -1,1 +1,1 @@
-This folder contain list non dispensbele lost gene list which used for enrichment anlysis
+This folder contain list non dispensbele lost gene list which used for enrichment analysis
